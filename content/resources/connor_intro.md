@@ -4,6 +4,11 @@ description: Title Page, Preface, and Table of Contents from the reference textb
   for this course, Analysis of Structural Member Systems (Ronald Press, 1976).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-571-structural-analysis-and-control-spring-2004/34360db041a78221bbfeef0a0604709a_connor_intro.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 parent_uid: c5b50cac-24f1-135a-3b41-2c12c6cef444
 resourcetype: Document
 title: connor_intro.pdf
